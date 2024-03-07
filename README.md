@@ -9,7 +9,8 @@ To install and run the AI law assistant on a Windows system, follow these steps:
  Clone the repository to your local machine:
   
    git clone https://github.com/AbishekShekar/AI-law-assistant.git
-cd AI-law-assistant
+   
+ cd AI-law-assistant
 
 pip install -r requirements.txt
 
